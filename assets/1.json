@@ -1,14 +1,17 @@
 {
-	"name": "Anniyan",
-	"symbol": "ANN",
-	"image": "1.png",
-	"properties": {
-		"files": [{ "url": "1.png", "type": "image/png" }],
-		"creators": [
-			{
-				"address": "BqEgPTcDX1upXSee8DFhSgNmX5Mn72krsYVpfoKZPzEi",
-				"share": 100
-			}
-		]
-	}
+  "name": "Numbers #1",
+  "image": "1.png",
+  "properties": {
+    "files": [{ "uri": "1.png", "type": "image/png" }],
+    "category": "image"
+  },
+  "creators": [
+    {
+      "address": "3NT8RpSTCknxU7JYHFmnLpAnQmfmzp14fRv3c3U3DBBw",
+      "share": 100
+    }
+  ],  
+  "description": "A set of test NFTs for the Solana blockchain",
+  "seller_fee_basis_points": 1000,
+  "attributes": [{ "trait_type": "Number", "value": "1" }]
 }

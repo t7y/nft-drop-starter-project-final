@@ -1,14 +1,17 @@
 {
-	"name": "Ambi",
-	"symbol": "AMB",
-	"image": "0.png",
-	"properties": {
-		"files": [{ "url": "0.png", "type": "image/png" }],
-		"creators": [
-			{
-				"address": "BqEgPTcDX1upXSee8DFhSgNmX5Mn72krsYVpfoKZPzEi",
-				"share": 100
-			}
-		]
-	}
+  "name": "Numbers #0",
+  "image": "0.png",
+  "properties": {
+    "files": [{ "uri": "0.png", "type": "image/png" }],
+    "category": "image"
+  },
+  "creators": [
+    {
+      "address": "3NT8RpSTCknxU7JYHFmnLpAnQmfmzp14fRv3c3U3DBBw",
+      "share": 100
+    }
+  ],  
+  "description": "A set of test NFTs for the Solana blockchain",
+  "seller_fee_basis_points": 1000,
+  "attributes": [{ "trait_type": "Number", "value": "0" }]
 }

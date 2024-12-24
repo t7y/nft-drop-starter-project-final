@@ -1,0 +1,22 @@
+{
+  "name": "Numbers",
+  "image": "collection.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "creators": [
+    {
+      "address": "3NT8RpSTCknxU7JYHFmnLpAnQmfmzp14fRv3c3U3DBBw",
+      "share": 100
+    }
+  ],
+  "description": "A Set of test NFT's for the Solana Blockchain",
+  "seller_fee_basis_points": 1000,
+    "attributes": []
+}

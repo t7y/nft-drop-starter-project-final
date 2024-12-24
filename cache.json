@@ -1,0 +1,34 @@
+{
+  "program": {
+    "candyMachine": "ScPvuzqbdttaJaR4eQ1MfSH3gU4o3rLD7Tb4wCkDVU3",
+    "candyGuard": "",
+    "candyMachineCreator": "Ag61GoivqhqG6hQNTjdu3JbS2htAmkMsPdr7XpExSPg3",
+    "collectionMint": "GzebydtTSnJpwNqGkvaSi5BU6nTwrNueQjNUWw1orZJL"
+  },
+  "items": {
+    "-1": {
+      "name": "Numbers",
+      "image_hash": "2260e2f01fc7eae1a9180969d24e6f8afd72a5f6625d176ebfc2f2231d678d41",
+      "image_link": "https://gateway.irys.xyz/Ch7BwR3BEdWqSt4EFxpXqdtzGmNMVMXbZnvDNsPSQaEd?ext=png",
+      "metadata_hash": "f0af53fbd4d31265d707563b2dc4b771502e2b32e6b9e8f5f64ff28076d28835",
+      "metadata_link": "https://gateway.irys.xyz/3dwW4Fm8VCtz3PmphkoBmuorX7iU7f1NzsPDqUGKEFah",
+      "onChain": true
+    },
+    "0": {
+      "name": "Numbers #0",
+      "image_hash": "3dc0e90a8e67c3b3cbfb57af37bf02908a52ecdffabb611931b9b92cb6d5f9c6",
+      "image_link": "https://gateway.irys.xyz/DcsqMrBgddaspn5FXDZsfhskyE9iuR5LKfUsDrAgG9Nk?ext=png",
+      "metadata_hash": "0defe9a50516a21676ae8009c2177ac683e0553d9d07deaff8aeac7b1147a5c5",
+      "metadata_link": "https://gateway.irys.xyz/DmzkNXL5FNc2qAXQvUHhz9TTuAbUyihkPZp8r7JNeEWF",
+      "onChain": true
+    },
+    "1": {
+      "name": "Numbers #1",
+      "image_hash": "1d1b54d2d8a732a11f3fb3985e429fa9aaa0442f3a9ba866c9ead915f05eed10",
+      "image_link": "https://gateway.irys.xyz/BXtKhvJcLxGwRLgTCv227BC3audodUNsag5UmEfEc7eC?ext=png",
+      "metadata_hash": "4438395b4bfbaa89d89e63f98a874e2967cd43c28156ad3b61774f962df547e7",
+      "metadata_link": "https://gateway.irys.xyz/BcL4NUzRN3AniDiWRXGFuxHa7vzX9yCNvy3tB7imZWuX",
+      "onChain": true
+    }
+  }
+}
